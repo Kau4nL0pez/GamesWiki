@@ -1,0 +1,73 @@
+[
+{
+    "nome": "Claire Obscure: expedition 33",
+    "desenvolvedor": "Sandfall Interactive",
+    "genero": "RPG",
+    "plataformasDisponiveis": "PC, PS5, Xbox Series", 
+    "site":"https://www.expedition33.com"  
+},
+{
+    "nome": "Blue Prince",
+    "desenvolvedor": "DoguBomb",
+    "genero": "Estratégia, Puzzle",
+    "plataformasDisponiveis": "PC, PS5, Xbox Series",
+    "site": "https://www.blueprincegame.com/"
+},
+{
+    "nome": "Inazuma Eleven: Victory Road",
+    "desenvolvedor": "Level-5",
+    "genero": "RPG de Esportes",
+    "plataformasDisponiveis": "Nintendo Switch, PS4, PS5, PC, Xbox Series",
+    "site": "https://www.inazuma.jp/victory-road/en/"
+},
+{
+    "nome": "Death Stranding 2: On The Beach",
+    "desenvolvedor": "Kojima Productions",
+    "genero": "Ação",
+    "plataformasDisponiveis": "PS5",
+    "site": "https://www.playstation.com/pt-br/games/death-stranding-2-on-the-beach/"
+},
+{
+    "nome": "Hollow Knight: Silksong",
+    "desenvolvedor": "Team Cherry",
+    "genero": "Metroidvania",
+    "plataformasDisponiveis": "PC, Nintendo Switch, PS4, PS5, Xbox One, Xbox Series X/S",
+    "site": "https://www.hollowknightsilksong.com/"
+},
+{
+    "nome": "Hades 2",
+    "desenvolvedor": "Supergiant Games",
+    "genero": "Roguelike, Ação",
+    "plataformasDisponiveis": "PC, PS5, Xbox Series",
+    "site": "https://www.supergiantgames.com/games/hades-ii/"
+},
+{
+    "nome": "Pokémon Legends Z-A",
+    "desenvolvedor": "Game Freak",
+    "genero": "Aventura, RPG",
+    "plataformasDisponiveis": "Nintendo Switch",
+    "site": "https://legends.pokemon.com/en-us"
+},
+{
+    "nome": "Detroit: Become Human",
+    "desenvolvedor": "Quantic Dream",
+    "genero": "Aventura, Interativo",
+    "plataformasDisponiveis": "PC, PS4,",
+    "site": "https://www.quanticdream.com/en/detroit-become-human"
+},
+{
+    "nome": "2XKO",
+    "desenvolvedor": "Riot Games",
+    "genero": "Ação, Luta",
+    "plataformasDisponiveis": "PC",
+    "site": "https://2xko.riotgames.com/pt-br/"
+},
+{
+    "nome": "Dispatch",
+    "desenvolvedor": "AdHoc Studio",
+    "genero": "Aventura, Simulação",
+    "plataformasDisponiveis": "Pc",
+    "site": "https://store.steampowered.com/app/2592160/Dispatch/"
+}
+
+]
