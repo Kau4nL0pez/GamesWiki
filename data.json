@@ -1,73 +1,247 @@
 [
-{
+  {
     "nome": "Claire Obscure: expedition 33",
     "desenvolvedor": "Sandfall Interactive",
     "genero": "RPG",
-    "plataformasDisponiveis": "PC, PS5, Xbox Series", 
-    "site":"https://www.expedition33.com"  
-},
-{
+    "plataformasDisponiveis": "PC, PS5, Xbox Series",
+    "site": "https://www.expedition33.com"
+  },
+  {
     "nome": "Blue Prince",
     "desenvolvedor": "DoguBomb",
     "genero": "Estratégia, Puzzle",
     "plataformasDisponiveis": "PC, PS5, Xbox Series",
     "site": "https://www.blueprincegame.com/"
-},
-{
+  },
+  {
     "nome": "Inazuma Eleven: Victory Road",
     "desenvolvedor": "Level-5",
     "genero": "RPG de Esportes",
     "plataformasDisponiveis": "Nintendo Switch, PS4, PS5, PC, Xbox Series",
     "site": "https://www.inazuma.jp/victory-road/en/"
-},
-{
+  },
+  {
     "nome": "Death Stranding 2: On The Beach",
     "desenvolvedor": "Kojima Productions",
     "genero": "Ação",
     "plataformasDisponiveis": "PS5",
     "site": "https://www.playstation.com/pt-br/games/death-stranding-2-on-the-beach/"
-},
-{
+  },
+  {
     "nome": "Hollow Knight: Silksong",
     "desenvolvedor": "Team Cherry",
     "genero": "Metroidvania",
     "plataformasDisponiveis": "PC, Nintendo Switch, PS4, PS5, Xbox One, Xbox Series X/S",
     "site": "https://www.hollowknightsilksong.com/"
-},
-{
+  },
+  {
     "nome": "Hades 2",
     "desenvolvedor": "Supergiant Games",
     "genero": "Roguelike, Ação",
     "plataformasDisponiveis": "PC, PS5, Xbox Series",
     "site": "https://www.supergiantgames.com/games/hades-ii/"
-},
-{
+  },
+  {
     "nome": "Pokémon Legends Z-A",
     "desenvolvedor": "Game Freak",
     "genero": "Aventura, RPG",
     "plataformasDisponiveis": "Nintendo Switch",
     "site": "https://legends.pokemon.com/en-us"
-},
-{
+  },
+  {
     "nome": "Detroit: Become Human",
     "desenvolvedor": "Quantic Dream",
     "genero": "Aventura, Interativo",
     "plataformasDisponiveis": "PC, PS4,",
     "site": "https://www.quanticdream.com/en/detroit-become-human"
-},
-{
+  },
+  {
     "nome": "2XKO",
     "desenvolvedor": "Riot Games",
     "genero": "Ação, Luta",
     "plataformasDisponiveis": "PC",
     "site": "https://2xko.riotgames.com/pt-br/"
-},
-{
+  },
+  {
     "nome": "Dispatch",
     "desenvolvedor": "AdHoc Studio",
     "genero": "Aventura, Simulação",
     "plataformasDisponiveis": "Pc",
     "site": "https://store.steampowered.com/app/2592160/Dispatch/"
-}
-
+  },
+  {
+    "nome": "The Last of Us Part I",
+    "desenvolvedor": "Naughty Dog",
+    "genero": "Ação-Aventura/Survival Horror",
+    "plataformasDisponiveis": "PS5, PC",
+    "site": "https://www.naughtydog.com/games/the_last_of_us_part_i"
+  },
+  {
+    "nome": "Dark Souls Remastered",
+    "desenvolvedor": "FromSoftware",
+    "genero": "RPG de Ação",
+    "plataformasDisponiveis": "PC, PS4, Xbox One, Nintendo Switch",
+    "site": "https://www.darksouls.com/"
+  },
+  {
+    "nome": "God of War Ragnarök",
+    "desenvolvedor": "Santa Monica Studio",
+    "genero": "Ação-Aventura",
+    "plataformasDisponiveis": "PS4, PS5",
+    "site": "https://www.playstation.com/games/god-of-war-ragnarok/"
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "desenvolvedor": "Rockstar Games",
+    "genero": "Ação-Aventura/Western",
+    "plataformasDisponiveis": "PS4, Xbox One, PC",
+    "site": "https://www.rockstargames.com/reddeadredemption2"
+  },
+  {
+    "nome": "The Witcher 3: Wild Hunt",
+    "desenvolvedor": "CD Projekt Red",
+    "genero": "RPG de Ação",
+    "plataformasDisponiveis": "PC, PS4, Xbox One, Nintendo Switch, PS5, Xbox Series X/S",
+    "site": "https://thewitcher.com/en/witcher3"
+  },
+  {
+    "nome": "Elden Ring",
+    "desenvolvedor": "FromSoftware",
+    "genero": "RPG de Ação",
+    "plataformasDisponiveis": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+    "site": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "desenvolvedor": "CD Projekt Red",
+    "genero": "RPG de Ação/Ficção Científica",
+    "plataformasDisponiveis": "PC, PS5, Xbox Series X/S",
+    "site": "https://www.cyberpunk.net/"
+  },
+  {
+    "nome": "Grand Theft Auto V",
+    "desenvolvedor": "Rockstar North",
+    "genero": "Ação-Aventura/Mundo Aberto",
+    "plataformasDisponiveis": "PS3, PS4, PS5, Xbox 360, Xbox One, Xbox Series X/S, PC",
+    "site": "https://www.rockstargames.com/gta-v"
+  },
+  {
+    "nome": "Minecraft",
+    "desenvolvedor": "Mojang Studios",
+    "genero": "Sandbox/Sobrevivência",
+    "plataformasDisponiveis": "PC, Mobile, Consoles",
+    "site": "https://www.minecraft.net/"
+  },
+  {
+    "nome": "Final Fantasy VII Remake",
+    "desenvolvedor": "Square Enix",
+    "genero": "RPG de Ação",
+    "plataformasDisponiveis": "PS4, PS5, PC",
+    "site": "https://ffvii-remake.square-enix-games.com/"
+  },
+  {
+    "nome": "Resident Evil 4 (Remake)",
+    "desenvolvedor": "Capcom",
+    "genero": "Survival Horror/Tiro em Terceira Pessoa",
+    "plataformasDisponiveis": "PC, PS4, PS5, Xbox Series X/S",
+    "site": "https://www.residentevil.com/re4/"
+  },
+  {
+    "nome": "Super Mario Bros. Wonder",
+    "desenvolvedor": "Nintendo EAD",
+    "genero": "Plataforma",
+    "plataformasDisponiveis": "Nintendo Switch",
+    "site": "https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/"
+  },
+  {
+    "nome": "Metroid Prime Remastered",
+    "desenvolvedor": "Retro Studios",
+    "genero": "Ação-Aventura/First-Person",
+    "plataformasDisponiveis": "Nintendo Switch",
+    "site": "https://www.nintendo.com/store/products/metroid-prime-remastered-switch/"
+  },
+  {
+    "nome": "Call of Duty: Modern Warfare II (2022)",
+    "desenvolvedor": "Infinity Ward",
+    "genero": "Tiro em Primeira Pessoa",
+    "plataformasDisponiveis": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+    "site": "https://www.callofduty.com/"
+  },
+  {
+    "nome": "Assassin's Creed Valhalla",
+    "desenvolvedor": "Ubisoft Montreal",
+    "genero": "RPG de Ação/Mundo Aberto",
+    "plataformasDisponiveis": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+    "site": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla"
+  },
+  {
+    "nome": "Doom Eternal",
+    "desenvolvedor": "id Software",
+    "genero": "Tiro em Primeira Pessoa",
+    "plataformasDisponiveis": "PC, PS4, Xbox One, Nintendo Switch, PS5, Xbox Series X/S",
+    "site": "https://doom.com/en-us/"
+  },
+  {
+    "nome": "Horizon Zero Dawn",
+    "desenvolvedor": "Guerrilla Games",
+    "genero": "RPG de Ação/Mundo Aberto",
+    "plataformasDisponiveis": "PS4, PC",
+    "site": "https://www.guerrilla-games.com/play/horizon-zero-dawn"
+  },
+  {
+    "nome": "Bloodborne",
+    "desenvolvedor": "FromSoftware",
+    "genero": "RPG de Ação",
+    "plataformasDisponiveis": "PS4",
+    "site": "https://www.playstation.com/en-us/games/bloodborne/"
+  },
+  {
+    "nome": "Sekiro: Shadows Die Twice",
+    "desenvolvedor": "FromSoftware",
+    "genero": "Ação-Aventura",
+    "plataformasDisponiveis": "PC, PS4, Xbox One",
+    "site": "https://www.sekirothegame.com/"
+  },
+  {
+    "nome": "Marvel's Spider-Man 2",
+    "desenvolvedor": "Insomniac Games",
+    "genero": "Ação-Aventura",
+    "plataformasDisponiveis": "PS5",
+    "site": "https://www.playstation.com/en-us/games/marvels-spider-man-2/"
+  },
+  {
+    "nome": "Gears of War 4",
+    "desenvolvedor": "The Coalition",
+    "genero": "Tiro em Terceira Pessoa",
+    "plataformasDisponiveis": "Xbox One, PC",
+    "site": "https://gearsofwar.com/"
+  },
+  {
+    "nome": "Uncharted 4: A Thief's End",
+    "desenvolvedor": "Naughty Dog",
+    "genero": "Ação-Aventura",
+    "plataformasDisponiveis": "PS4, PC",
+    "site": "https://www.naughtydog.com/games/uncharted_4"
+  },
+  {
+    "nome": "Celeste",
+    "desenvolvedor": "Maddy Makes Games",
+    "genero": "Plataforma/Indie",
+    "plataformasDisponiveis": "PC, PS4, Xbox One, Nintendo Switch",
+    "site": "https://www.celestegame.com/"
+  },
+  {
+    "nome": "Disco Elysium - The Final Cut",
+    "desenvolvedor": "ZA/UM",
+    "genero": "RPG",
+    "plataformasDisponiveis": "PC, PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch",
+    "site": "https://discoelysium.com/"
+  },
+  {
+    "nome": "Star Wars Jedi: Survivor",
+    "desenvolvedor": "Respawn Entertainment",
+    "genero": "Ação-Aventura",
+    "plataformasDisponiveis": "PC, PS5, Xbox Series X/S",
+    "site": "https://www.ea.com/games/starwars/jedi/jedi-survivor"
+  }
 ]
